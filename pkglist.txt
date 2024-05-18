@@ -1,0 +1,5 @@
+gcc=4:11.2.0-1ubuntu1
+cmake=3.22.1-1ubuntu1.22.04.2
+gdb=12.1-0ubuntu1~22.04
+libncurses5-dev=6.3-2ubuntu0.1
+libncursesw5-dev=6.3-2ubuntu0.1
